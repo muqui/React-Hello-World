@@ -1,9 +1,10 @@
-# React-MVC-Hello-World
+# React-Hello-World
 <h1>Requirements</h1>
 <ul>
   <li>Node.js</li>
   <li>Knowledge in Html, css an JavaScript</li>
 </ul>
+<h3>Steps for creating React Hello Word.</h3>
 <p>1) Go to terminal and create project</p>
 <p> npx create-react-app holamundo</p>
 <p>this command will create folder ready to development.</p>
